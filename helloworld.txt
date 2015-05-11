@@ -8,3 +8,11 @@
 #ahora github --> crear repositorio
 #Te da el código para generar el código --> ejemplo : git remote add origin https://github.com/ledaduelo/ejemploGit.git git push -u origin master
 #tepide usuario y login 
+#subir --> git push origin master
+#para actualizar  -->  git push origin master
+
+Hola mundo
+Adios mundo cruel
+
+#al dar a git status  --> te avis si ha sido modificadto
+#git commit -m"he puesto una frase" 

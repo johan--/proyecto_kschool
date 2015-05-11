@@ -1,0 +1,10 @@
+#crear archivo mkdir ejemploGit y invocarlo cd 
+#he creado usuario git config--global user.name"leda.duelo" git config--global user.email"leda.duelo@gmail.com"
+
+#git init crear el repositiorio
+#git status 
+#git add --all (ahora el hello world aparece en verde - git status )
+#git commit -m"primer commit que es prueba y puedo borrar"
+#ahora github --> crear repositorio
+#Te da el código para generar el código --> ejemplo : git remote add origin https://github.com/ledaduelo/ejemploGit.git git push -u origin master
+#tepide usuario y login 
